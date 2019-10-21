@@ -1,6 +1,6 @@
 #Stars Wars Repo
 
 
-![./nave.jpeg](Nave)
+![](https://github.com/fabinajm/StarWars/blob/master/nave.jpeg)
 
 Este repositório é exemplo de git
